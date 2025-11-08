@@ -1,5 +1,5 @@
 ### Frontend Developer (Vue.js)
----
+
 Develop modern, responsive SPA applications using SSR. Continuously learning new technologies and tools to build efficient and scalable solutions. Keep track of web development trends and apply best practices in projects.
 
 ## 🛠️ My Stack
